@@ -2,7 +2,7 @@
 
 and here's why ...
 
-[craftsman/index/me.html]
+[singularitymachine/craftsman/index/me.html]
 
 # Space Falcon
 
