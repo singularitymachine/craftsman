@@ -2,7 +2,7 @@
 
 and here's why ...
 
-/index/me.html
+[craftsman/index/me.html]
 
 # Space Falcon
 
